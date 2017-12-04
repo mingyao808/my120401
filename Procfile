@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath my120401 my120401.wsgi
